@@ -7,7 +7,7 @@
 /dataSources/
 /dataSources.local.xml
 /.idea/
-/taget/
-/out/
+taget/
+out/
 /compiler.xml
 /jarRepositories.xml
